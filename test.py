@@ -1,7 +1,8 @@
 import sys
-
-if sys.argv(1)=="manikanta":
-    print(sys.argv(1))
+st=sys.argv[1]
+ts="manikanta"
+if str==ts:
+    print(st)
 else:
-    print("opps")
+    print(sys.argv[1])
 
