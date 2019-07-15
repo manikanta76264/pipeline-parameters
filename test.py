@@ -1,8 +1,8 @@
 import sys
 st=sys.argv[1]
 ts="manikanta"
-if str==ts:
+if st==ts:
     print(st)
 else:
-    print(sys.argv[1])
+    print("error")
 
