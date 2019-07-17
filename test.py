@@ -5,4 +5,5 @@ if st==ts:
     print(st)
 else:
     print("error")
+#manikanta
 
